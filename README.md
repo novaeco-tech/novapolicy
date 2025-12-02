@@ -1,4 +1,4 @@
 # NovaPolicy Enabler
 
 Welcome to the `NovaPolicy` Horizontal Enabler.
-Governance, compliance, legal frameworks.
+Policy-as-Code engine for automated regulatory compliance checks.
