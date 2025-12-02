@@ -33,7 +33,7 @@ graph TD
     
     subgraph "The Enforcement Loop"
         Trade -->|2. Check Permission| API[NovaPolicy API]
-        API -->|3. Evaluate Input| OPA[OPA Engine (Rego)]
+        API -->|3. Evaluate Input| OPA["OPA Engine (Rego)"]
         OPA -->|4. Allow / Deny| API
     end
 
